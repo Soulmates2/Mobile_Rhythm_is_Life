@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/twinkle.unity
+  isLoaded: 1
+  isActive: 1
